@@ -1,5 +1,4 @@
 # 🪖 Helmet Detection Safety System
-
 > AI-powered construction site safety monitoring using **YOLOv8 + BERT + GPT-2**
 > Built with Python · Streamlit · HuggingFace Transformers · Ultralytics · Pickle
 
@@ -8,6 +7,17 @@
 ![YOLOv8](https://img.shields.io/badge/YOLOv8-Ultralytics-yellow)
 ![BERT](https://img.shields.io/badge/BERT-HuggingFace-orange)
 ![License](https://img.shields.io/badge/License-MIT-green)
+
+---
+
+## 🎬 Demo & Video
+
+| Type | Link |
+|------|------|
+| 🎥 **Video Demo** | [Watch Full Demo Video](https://github.com/Rudrax66/Helmet-Detection-Safety-System/blob/main/Helmet%20Detection%20Safety%20System.mp4) |
+| 🌐 **Live Demo** | [Launch App → localhost:8501](http://localhost:8501/) |
+
+> 📽️ Click the video link above to watch the full walkthrough of the Helmet Detection Safety System in action.
 
 ---
 
@@ -157,7 +167,7 @@ pandas>=2.0.0
 ### Step 1 — Clone or Download the Project
 
 ```bash
-# Option A: If you have the files, create the folder structure
+# Create the folder structure
 mkdir D:\Transformer\helmet_detection
 mkdir D:\Transformer\helmet_detection\models
 mkdir D:\Transformer\helmet_detection\app
@@ -444,6 +454,16 @@ Built using:
 - 🤗 [HuggingFace Transformers](https://huggingface.co/transformers)
 - 🎯 [Ultralytics YOLOv8](https://ultralytics.com)
 - 🌊 [Streamlit](https://streamlit.io)
+
+---
+
+## 🔗 Links
+
+| Resource | URL |
+|----------|-----|
+| 🎥 Video Demo | [Watch Demo](https://github.com/Rudrax66/Helmet-Detection-Safety-System/blob/main/Helmet%20Detection%20Safety%20System.mp4) |
+| 🌐 Live Demo | [localhost:8501](http://localhost:8501/) |
+| 📦 GitHub Repo | [Helmet-Detection-Safety-System](https://github.com/Rudrax66/Helmet-Detection-Safety-System) |
 
 ---
 
