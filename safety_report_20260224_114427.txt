@@ -1,0 +1,14 @@
+HELMET DETECTION SAFETY REPORT
+Generated : 2026-02-24 11:44:27
+Zone      : Zone-A
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+Workers Detected : 2
+├── With Helmet  : 2 ✅
+└── No Helmet    : 0 ❌
+Risk Level       : Low
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+✅ COMPLIANT
+All workers are wearing proper helmets.
+No immediate action required.
+Recommendation: Continue regular safety monitoring.
